@@ -1,0 +1,7 @@
+[project]
+name = "genpark-directed-graph-agentic-workflow-and-conditional-handoff-skill"
+version = "1.0.0"
+description = "Orchestrates multi-agent execution graphs with state-evaluated conditional edges, dynamic routing, and subagent handoffs"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
